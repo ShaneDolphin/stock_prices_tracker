@@ -1,6 +1,6 @@
 # Stock Price Tracker and Anomaly Detection
 
-This project provides a stock price tracker that ingests stock price data, loads it into a PostgreSQL database, and detects abnormalities in the price changes using machine learning techniques.
+This project provides conspiracy theorists and wackadoodles on the internet (possibly named Raul) a stock price tracker that ingests stock price data, loads it into a PostgreSQL database, and detects abnormalities in the price changes using machine learning techniques.
 
 ## Features
 
