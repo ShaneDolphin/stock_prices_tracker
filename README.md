@@ -19,7 +19,6 @@ This project provides conspiracy theorists and wackadoodles on the internet (pos
 
 1. Clone the repository:
    ```
-   bash
    git clone https://github.com/ShaneDolphin/stock_prices_tracker.git
    cd stock_prices_tracker
    ```
