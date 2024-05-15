@@ -22,5 +22,11 @@ This project provides a stock price tracker that ingests stock price data, loads
    bash
    git clone https://github.com/yourusername/stock-price-tracker.git
    cd stock-price-tracker
-   '''
+   
+2. Install the required Python packages
+
+'''
+pip install -r requirements.txt
+
+3.
    
