@@ -25,7 +25,7 @@ This project provides a stock price tracker that ingests stock price data, loads
    
 2. Install the required Python packages
 
-'''
+```
 pip install -r requirements.txt
 
 3.
